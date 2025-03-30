@@ -31,6 +31,9 @@
 - **F**umarase
 - **S**uccinate dehydrogenase
 
+  ![IMG_6044 copy](https://github.com/user-attachments/assets/913129a8-32b2-4ced-bf79-19334955f07b)
+
+
 ## Visual Study Aid
 
 ```
