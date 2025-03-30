@@ -1,92 +1,164 @@
-# Biochemistry Study Guide Collection
+# Physics Study Guide Collection
 
-A comprehensive collection of biochemistry study guides covering major metabolic pathways and processes.
+A comprehensive collection of physics study guides covering major topics in mechanics and thermodynamics.
 
 ## Table of Contents
 
-1. [Citric Acid Cycle & Pyruvate Dehydrogenase](citric_acid_cycle_study_guide.md)
+1. [Kinematics & Linear Motion](kinematics_study_guide.md)
 
-   - Pyruvate Dehydrogenase Complex
-   - Citric Acid Cycle Steps
-   - Energy Yields
-   - Regulation Points
+   - Vectors and Scalars
+   - Displacement and Velocity
+   - Acceleration
+   - Linear Motion Equations
+   - Motion Graphs
 
-2. [Electron Transport Chain & Oxidative Phosphorylation](electron_transport_chain_study_guide.md)
+2. [Projectile Motion & Friction](projectile_friction_study_guide.md)
 
-   - ETC Complexes
-   - Proton Gradient
-   - ATP Synthesis
-   - Shuttle Systems
+   - Projectile Motion Components
+   - Range and Maximum Height
+   - Static Friction
+   - Kinetic Friction
+   - Force Diagrams
 
-3. [Glycogen Metabolism](glycogen_metabolism_study_guide.md)
+3. [Newton's Laws & Equilibrium](newtons_laws_study_guide.md)
 
-   - Glycogenesis
-   - Glycogenolysis
-   - Hormonal Control
-   - Storage Diseases
+   - Three Laws of Motion
+   - Force Analysis
+   - Gravitational Force
+   - Circular Motion
+   - Equilibrium Conditions
 
-4. [Lipid and Amino Acid Metabolism](lipid_amino_acid_metabolism_study_guide.md)
+4. [Work, Energy & Power](work_energy_study_guide.md)
 
-   - Lipid Transport
-   - Cholesterol Metabolism
-   - Fatty Acid Metabolism
-   - Protein Catabolism
+   - Work-Energy Theorem
+   - Potential and Kinetic Energy
+   - Conservation of Energy
+   - Power Calculations
+   - Energy Conversions
 
-5. [Metabolic States](metabolic_states_study_guide.md)
-   - Fed State
-   - Fasting State
-   - Starvation
-   - Tissue-Specific Metabolism
+5. [Thermodynamics](thermodynamics_study_guide.md)
+   - Thermal Expansion
+   - Heat Transfer Methods
+   - Specific Heat
+   - First Law of Thermodynamics
+   - Thermodynamic Processes
 
 ## Study Guide Features
 
-Each study guide includes:
+Each guide includes:
 
 - Quick Reference Tables
+- Detailed Formula Explanations
 - Visual Aids and Diagrams
-- Mnemonic Devices
-- Practice Questions
-- Clinical Connections
-- Common Exam Topics
-- Study Tips
+- Problem-Solving Strategies
+- Practice Problems
+- Common Mistakes to Avoid
+- Real-World Applications
+- Memory Aids and Mnemonics
 
 ## How to Use These Guides
 
-1. **Sequential Learning**: Start with the Citric Acid Cycle and work your way through the guides in order, as concepts build upon each other.
+1. **Sequential Learning**:
 
-2. **Quick Review**: Use the Quick Reference Tables at the beginning of each guide for rapid review.
+   - Start with Kinematics
+   - Build up to more complex topics
+   - Review prerequisites before new topics
 
-3. **Visual Learning**: Pay attention to the diagrams and visual aids that illustrate complex processes.
+2. **Problem Solving**:
 
-4. **Active Recall**: Utilize the Practice Questions at the end of each guide to test your understanding.
+   - Use the step-by-step strategies
+   - Practice with example problems
+   - Check solutions with provided methods
 
-5. **Clinical Integration**: Review the Clinical Connections to understand real-world applications.
+3. **Visual Learning**:
 
-## Study Tips
+   - Study the diagrams
+   - Draw your own versions
+   - Use the visual aids for concepts
 
-1. **Cross-Reference**: Many processes are interconnected. Use the links between guides to understand these relationships.
+4. **Formula Mastery**:
+   - Learn the basic forms
+   - Understand variations
+   - Practice rearrangements
 
-2. **Mnemonics**: Each guide contains specific mnemonics to help memorize complex pathways and processes.
+## Quick Tips for Each Section
 
-3. **Practice**: Complete all practice questions and create your own to reinforce learning.
+### Kinematics
 
-4. **Visual Memory**: Draw out pathways and processes to strengthen understanding.
+- Master SUVAT equations
+- Practice graph interpretations
+- Remember vector/scalar differences
+
+### Projectile Motion
+
+- Separate horizontal/vertical motion
+- Use symmetry for simple problems
+- Draw complete trajectory diagrams
+
+### Newton's Laws
+
+- Always draw force diagrams
+- Identify all forces
+- Check action-reaction pairs
+
+### Work & Energy
+
+- Track energy transformations
+- Use conservation principles
+- Check units carefully
+
+### Thermodynamics
+
+- Understand process types
+- Follow sign conventions
+- Remember phase changes
+
+## Practice Methodology
+
+1. **Concept Review**:
+
+   - Read through section
+   - Study diagrams
+   - Understand derivations
+
+2. **Problem Practice**:
+
+   - Start with basic problems
+   - Progress to complex ones
+   - Time yourself for exam prep
+
+3. **Self-Testing**:
+   - Use practice problems
+   - Create your own questions
+   - Explain concepts to others
 
 ## Additional Resources
 
-- Use the provided mnemonics for quick memorization
-- Practice drawing the pathways without reference
-- Review clinical connections to understand practical applications
-- Test yourself using the practice questions in each guide
+1. **Online Tools**:
+
+   - Physics simulations
+   - Video demonstrations
+   - Practice calculators
+
+2. **Problem Collections**:
+
+   - End-of-chapter problems
+   - Past exam questions
+   - Online problem banks
+
+3. **Reference Materials**:
+   - Formula sheets
+   - Constants tables
+   - Unit conversion charts
 
 ## Contributing
 
 Feel free to:
 
 - Add additional notes
-- Create more practice questions
 - Suggest improvements
-- Share helpful mnemonics
+- Share helpful tips
+- Create more practice problems
 
 ## License
 
