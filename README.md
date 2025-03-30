@@ -43,6 +43,41 @@ A comprehensive collection of physics study guides covering major topics in mech
    - First Law of Thermodynamics
    - Thermodynamic Processes
 
+## Interactive Jupyter Notebooks
+
+To complement these study guides, we've created interactive Jupyter notebooks that provide visual demonstrations of key concepts. View them on [nbviewer.org](https://nbviewer.org/):
+
+1. [Kinematics Visualizations](https://nbviewer.org/github/YourUsername/physics-notebooks/blob/main/kinematics.ipynb)
+
+   - Interactive motion graphs
+   - SUVAT equation demonstrations
+   - Vector components
+
+2. [Projectile Motion](https://nbviewer.org/github/YourUsername/physics-notebooks/blob/main/projectile.ipynb)
+
+   - Trajectory plotting
+   - Range optimization
+   - Air resistance effects
+
+3. [Forces and Newton's Laws](https://nbviewer.org/github/YourUsername/physics-notebooks/blob/main/forces.ipynb)
+
+   - Force diagrams
+   - Spring-mass systems
+   - Circular motion
+
+4. [Work and Energy](https://nbviewer.org/github/YourUsername/physics-notebooks/blob/main/energy.ipynb)
+
+   - Energy conservation
+   - Work calculations
+   - Power and efficiency
+
+5. [Thermodynamics](https://nbviewer.org/github/YourUsername/physics-notebooks/blob/main/thermo.ipynb)
+   - PV diagrams
+   - Heat transfer
+   - Thermal expansion
+
+See [Interactive Physics Notebooks](interactive_physics_notebooks.md) for detailed information about using these notebooks.
+
 ## Study Guide Features
 
 Each guide includes:
