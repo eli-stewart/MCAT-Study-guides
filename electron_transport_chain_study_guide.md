@@ -17,6 +17,7 @@ Outside Matrix
     ↓   ↓    ↓     ↓    H⁺ → ATP
 Inside Matrix
 ```
+![IMG_6044 2 copy](https://github.com/user-attachments/assets/00143f45-9e91-462a-8984-54cca8daf7c6)
 
 ## Mnemonic Devices
 
