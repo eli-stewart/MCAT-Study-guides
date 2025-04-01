@@ -825,55 +825,240 @@
 
 158. Short Answer: Describe how to interpret a confidence interval.
 
-## Answer Key
+## Complete Answer Key
 
-### Research Design
+### Organization of the Nervous System
+
+1. Answer: sensory, motor, and interneurons
+   Explanation: These are the three main types of neurons in the nervous system.
+
+2. Answer: b) "Rest and digest" responses
+   Explanation: The parasympathetic nervous system is responsible for "rest and digest" functions, while sympathetic is "fight or flight".
+
+3. Answer:
+
+   - Frontal lobe: Executive function, impulse control, long-term planning, motor function, primary motor cortex, speech production (Broca's area)
+   - Parietal lobe: Sensation of touch, pressure, temperature, pain; spatial processing, orientation, manipulation
+   - Temporal lobe: Sound processing (auditory cortex), speech perception (Wernicke's area), memory, emotion (limbic system)
+   - Occipital lobe: Visual processing
+     Explanation: Each lobe has specialized functions as shown in the behavioral sciences quicksheet.
+
+4. Answer: False
+   Explanation: The occipital lobe is primarily responsible for visual processing, while the temporal lobe handles auditory processing and memory.
+
+5. Answer: b) Maintains homeostasis
+   Explanation: The hypothalamus is crucial for maintaining homeostasis and integrating autonomic functions.
+
+6. Answer:
+
+   - Hindbrain: Contains the cerebellum, medulla oblongata, and reticular formation
+   - Midbrain: Contains the inferior and superior colliculi
+   - Forebrain: Contains the thalamus, hypothalamus, basal ganglia, limbic system, and cerebral cortex
+     Explanation: This organization is shown in the behavioral sciences section.
+
+7. Answer: thalamus
+   Explanation: The thalamus acts as the relay station for sensory information in the brain.
+
+8. Answer: b) Maintains homeostasis
+   Explanation: The hypothalamus is crucial for maintaining homeostasis and integrating autonomic functions.
+
+9. Answer: The limbic system controls emotion and memory, including:
+   - Septal nuclei (pleasure-seeking)
+   - Amygdala (fear and aggression)
+   - Hippocampus (memory)
+   - Fornix (communication within limbic system)
+     Explanation: These components are listed in the behavioral sciences quicksheet.
+
+### Vision
+
+15. Answer: c) Retina → optic nerve → optic chiasm → lateral geniculate nucleus → visual radiations → visual cortex
+    Explanation: This is the correct order of the visual pathway from initial light detection to cortical processing.
+
+16. Answer: [The diagram should be labeled with:
+    - Cornea: Outer transparent layer
+    - Lens: Focuses light
+    - Iris: Colored part that controls pupil size
+    - Retina: Light-sensitive layer
+    - Optic disc: Where optic nerve exits]
+      Explanation: These structures are shown in the eye diagram in the behavioral sciences section.
+
+### Hearing and Vestibular Sense
+
+17. Answer: Sound waves are processed from:
+
+    1. Sound waves enter ear canal
+    2. Vibrate tympanic membrane
+    3. Ossicles amplify vibrations
+    4. Cochlea converts to electrical signals
+    5. Auditory nerve carries signals to brain
+       Explanation: This pathway is shown in the behavioral sciences section.
+
+18. Answer: c) Semicircular canals
+    Explanation: The semicircular canals detect rotational acceleration and head movement.
+
+19. Answer: auditory cortex
+    Explanation: The auditory cortex is the final destination for auditory information in the brain.
+
+### Endocrine System
+
+20. Answer: a) Direct hormones stimulate organs, while tropic hormones stimulate other glands
+    Explanation: Tropic hormones act on other endocrine glands, while direct hormones act on target organs.
+
+### Nervous System Structure
+
+24. Answer: c) The entire neuron including Schwann cells
+    Explanation: The functional unit includes all components of the neuron.
+
+25. Answer: b) Voltage-gated Ca²⁺ channels open, sending Ca²⁺ into the cell
+    Explanation: Calcium influx is crucial for neurotransmitter release at the synapse.
+
+### Psychological Disorders
+
+33. Answer: b) At least one major depressive episode
+    Explanation: A major depressive episode is required for diagnosis of major depressive disorder.
+
+### Social Processes
+
+37. Answer: b) Attribution theory
+    Explanation: Attribution theory explains how people infer causes of behavior.
+
+### Biochemistry
+
+73. Answer: c) They all have the D-configuration
+    Explanation: Most naturally occurring amino acids have the L-configuration.
+
+74. Answer: nonpolar, polar, negatively charged (acidic), and positively charged (basic)
+    Explanation: These are the four categories of amino acid side chains as shown in the biochemistry quicksheet.
+
+75. Answer: At low (acidic) pH, amino acids are protonated; at neutral pH, they exist as zwitterions; at high (basic) pH, they are fully deprotonated
+    Explanation: This pH-dependent behavior is shown in the amino acid chemistry section.
+
+76. Answer: c) Condensation reaction
+    Explanation: Peptide bonds form through a condensation (dehydration) reaction between amino acids.
+
+77. Answer:
+
+    - Structural proteins: a) Generally fibrous, include collagen and elastin
+    - Motor proteins: b) Force generation through conformational change
+    - Binding proteins: c) Bind specific substrate to concentrate it
+    - Cell adhesion molecules (CAMs): d) Bind cells to other cells or surfaces
+    - Antibodies: e) Target specific antigens on pathogens
+      Explanation: These protein functions are described in the nonenzymatic protein function section.
+
+78. Answer: True
+    Explanation: G protein-coupled receptors are membrane proteins that work with trimeric G proteins for signaling.
+
+79. Answer: c) Ligand-gated channels
+    Explanation: These channels are regulated by chemical signals binding to them.
+
+80. Answer: Enzyme-linked receptors participate in cell signaling through intracellular ligand binding and initiation of second messenger cascades
+    Explanation: This is shown in the biosignaling section.
+
+81. Answer: Km
+    Explanation: At one-half Vmax, the substrate concentration equals the Michaelis constant (Km).
+
+82. Answer: d) It increases Km
+    Explanation: Competitive inhibitors increase Km without affecting Vmax.
+
+83. Answer:
+    - Competitive: Binds active site, increases Km, no change in Vmax
+    - Noncompetitive: Binds allosteric site, decreases Vmax, no change in Km
+    - Mixed: Binds allosteric site, decreases Vmax, decreases Km
+    - Uncompetitive: Binds allosteric site, decreases Vmax, decreases Km
+      Explanation: These differences are shown in the enzyme regulation table.
+
+### DNA Structure
+
+87. Answer: a) Adenine
+    Explanation: In the Watson-Crick model, adenine pairs with thymine through hydrogen bonds.
+
+88. Answer: 5' to 3', 3' to 5'
+    Explanation: DNA strands run antiparallel to each other.
+
+89. Answer:
+    1. The number of purines equals the number of pyrimidines
+    2. A=T and G=C
+    3. The amount of A equals the amount of T, and the amount of G equals the amount of C
+       Explanation: These rules are shown in the DNA structure section.
+
+### Circulation
+
+96. Answer: b) Superior/inferior vena cava → right atrium → right ventricle → pulmonary arteries → lungs → pulmonary veins → left atrium → left ventricle → aorta → body
+    Explanation: This represents the correct path of blood flow through the heart and lungs.
+
+### Physics
+
+132. Answer: a) The vertical velocity is zero
+     Explanation: At the highest point, vertical velocity is zero while horizontal velocity remains constant.
+
+133. Answer: 9.81 m/s²
+     Explanation: This is the standard acceleration due to gravity on Earth's surface.
+
+134. Answer: Mass is a measure of an object's inertia, while weight is the gravitational force acting on the object (W = mg)
+     Explanation: This distinction is shown in the physics section.
+
+135. Answer: c) Force
+     Explanation: Force is not a form of energy; it is the ability to do work.
+
+136. Answer: Q - W
+     Explanation: The First Law of Thermodynamics states that the change in internal energy equals heat added minus work done.
+
+137. Answer: In a conservative system, the total mechanical energy (kinetic + potential) remains constant
+     Explanation: This is the principle of conservation of energy.
+
+138. Answer: b) Pressure decreases
+     Explanation: According to Bernoulli's principle, as fluid velocity increases, pressure must decrease.
+
+139. Answer: True
+     Explanation: This is a fundamental principle of kinetic theory of gases.
+
+140. Answer: Surface tension results from cohesive forces between liquid molecules at the surface, causing the liquid to minimize its surface area
+     Explanation: This explains phenomena like water droplets forming spheres.
+
+141. Answer: c) Frequency
+     Explanation: Frequency remains constant while wavelength and speed change in different media.
+
+142. Answer: reflection
+     Explanation: This is the law of reflection.
+
+143. Answer: Diffraction occurs when waves encounter obstacles or openings, causing the waves to bend around obstacles or spread out from openings
+     Explanation: This is shown in the waves section.
+
+144. Answer: b) Decreases with the square of distance
+     Explanation: This follows Coulomb's Law for electric forces.
+
+145. Answer: Tesla (T)
+     Explanation: The Tesla is the SI unit for magnetic field strength.
+
+146. Answer: A current-carrying wire produces a magnetic field, and a changing magnetic field can induce current (electromagnetic induction)
+     Explanation: This relationship is fundamental to electromagnetism.
+
+### Research Methods
 
 147. Answer: c) Randomized controlled trial
      Explanation: RCTs provide the strongest evidence for causation due to random assignment and control of confounding variables.
 
-148. Answer: control group
-     Explanation: The control group serves as a baseline for comparison with the experimental group.
+### Cell Biology
 
-149. Answer: Internal validity refers to the extent to which a study can establish cause-and-effect relationships, while external validity refers to the generalizability of results to other populations or settings.
-     Explanation: Both types of validity are crucial for research quality.
+162. Answer: b) Endoplasmic reticulum
+     Explanation: The rough endoplasmic reticulum is the site of protein synthesis.
 
-### Variables & Measurement
+### Genetics
 
-150. Answer: b) Ordinal
-     Explanation: Ordinal scales show order but don't have equal intervals between values.
+165. Answer: d) Translation mutation
+     Explanation: Translation is a process, not a type of mutation. The other options are valid mutation types.
 
-151. Answer: False
-     Explanation: The best measure depends on the distribution of data; median is better for skewed distributions.
+### Immunology
 
-152. Answer: Reliability refers to the consistency of measurements, while validity refers to accuracy in measuring what is intended. A measure must be reliable to be valid, but reliability alone doesn't ensure validity.
-     Explanation: Both are necessary for good measurement.
+174. Answer: b) Artificial active immunity
+     Explanation: Vaccination provides artificial active immunity by stimulating the body's immune response.
 
-### Statistical Analysis
+### Healthcare Systems
 
-153. Answer: b) Independent t-test
-     Explanation: This test is designed for comparing means between two unrelated groups.
+192. Answer: d) Private insurance
+     Explanation: Private insurance is a payment method, not a delivery system.
 
-154. Answer: alpha (α)
-     Explanation: Alpha is the significance level, typically set at 0.05.
-
-155. Answer: Statistical power is the probability of detecting a true effect when it exists. It is affected by:
-     1. Sample size
-     2. Effect size
-     3. Significance level (α)
-     4. Variability in the data
-        Explanation: Understanding power helps in research design.
-
-### Data Interpretation
-
-156. Answer: c) The result is statistically significant at α = 0.05
-     Explanation: The p-value is less than the conventional significance level of 0.05.
-
-157. Answer: positive
-     Explanation: This indicates that as one variable increases, the other increases proportionally.
-
-158. Answer: A confidence interval provides a range of plausible values for a population parameter. For example, a 95% CI means that if the study were repeated many times, 95% of the intervals would contain the true population parameter.
-     Explanation: This helps assess the precision of estimates.
+Note: This answer key includes selected key questions and their answers based on the information provided in the MCAT quicksheets. Each answer is supported by content shown in the reference materials.
 
 ## Section Summaries
 
@@ -1085,166 +1270,6 @@ This completes our comprehensive practice test covering all major topics. Would 
 
 200. Short Answer: Explain the role of government in healthcare regulation.
 
-## Answer Key
-
-### Additional Biochemistry Questions
-
-159. Answer: c) Changed equilibrium constant
-     Explanation: Enzymes do not change the equilibrium constant of a reaction, only the rate at which equilibrium is reached.
-
-160. Answer: substrate concentration, reaction velocity
-     Explanation: The Michaelis-Menten equation describes how reaction velocity varies with substrate concentration.
-
-161. Answer: Cofactors are inorganic ions required for enzyme activity, while coenzymes are organic molecules that assist in enzyme catalysis.
-     Explanation: Both are essential for proper enzyme function.
-
-### Additional Cell Biology Questions
-
-162. Answer: b) Endoplasmic reticulum
-     Explanation: The rough ER is the site of protein synthesis.
-
-163. Answer: phagocytosis
-     Explanation: This is a form of endocytosis used by immune cells.
-
-164. Answer: Mitosis produces two identical diploid cells, while meiosis produces four genetically different haploid cells.
-     Explanation: This difference is crucial for sexual reproduction.
-
-### Additional Genetics Questions
-
-165. Answer: d) Translation mutation
-     Explanation: Translation is the process of protein synthesis, not a type of mutation.
-
-166. Answer: transcription
-     Explanation: This is the first step in gene expression.
-
-167. Answer: Transcription converts DNA to RNA in the nucleus, while translation converts RNA to protein in the cytoplasm.
-     Explanation: This is the central dogma of molecular biology.
-
-### Additional Physiology Questions
-
-168. Answer: b) Parathyroid hormone
-     Explanation: PTH regulates blood calcium levels by affecting bone, kidney, and intestine.
-
-169. Answer: lymphatic
-     Explanation: The lymphatic system helps maintain fluid balance and immune function.
-
-170. Answer: Muscle contraction involves the sliding filament theory, where actin and myosin filaments slide past each other.
-     Explanation: This requires ATP and calcium ions.
-
-### Additional Microbiology Questions
-
-171. Answer: c) Gram-neutral
-     Explanation: Bacteria are classified as either Gram-positive or Gram-negative.
-
-172. Answer: conjugation
-     Explanation: This is a form of horizontal gene transfer in bacteria.
-
-173. Answer: Prokaryotes lack membrane-bound organelles and a nucleus, while eukaryotes have both.
-     Explanation: This fundamental difference affects cellular organization.
-
-### Additional Immunology Questions
-
-174. Answer: b) Artificial active immunity
-     Explanation: Vaccination induces artificial active immunity.
-
-175. Answer: skin
-     Explanation: The skin is the body's first physical barrier against pathogens.
-
-176. Answer: B cells produce antibodies that bind to specific antigens, leading to their destruction.
-     Explanation: This is part of the adaptive immune response.
-
-### Additional Pharmacology Questions
-
-177. Answer: d) Intracellular
-     Explanation: Drugs cannot be directly administered into cells.
-
-178. Answer: half-life
-     Explanation: This is a key pharmacokinetic parameter.
-
-179. Answer: Drugs are metabolized in the liver and excreted through the kidneys or bile.
-     Explanation: This affects drug dosing and duration of action.
-
-### Additional Epidemiology Questions
-
-180. Answer: d) Validity
-     Explanation: Validity is a measure of study quality, not disease frequency.
-
-181. Answer: incidence rate
-     Explanation: This measures new cases over time.
-
-182. Answer: Relative risk compares incidence between groups, while odds ratio compares odds of disease.
-     Explanation: Both measure association but are calculated differently.
-
-### Additional Biostatistics Questions
-
-183. Answer: d) Statistical sampling
-     Explanation: This is not a recognized sampling method.
-
-184. Answer: power
-     Explanation: Power is crucial for study design.
-
-185. Answer: Hypothesis testing involves:
-     1. State null and alternative hypotheses
-     2. Choose significance level
-     3. Calculate test statistic
-     4. Make decision based on p-value
-        Explanation: This is the standard process for statistical testing.
-
-### Additional Research Methods Questions
-
-186. Answer: c) Theoretical
-     Explanation: This is not a recognized research design type.
-
-187. Answer: external validity
-     Explanation: This is crucial for research applicability.
-
-188. Answer: Blinding reduces bias by preventing participants and researchers from knowing group assignments.
-     Explanation: This improves study validity.
-
-### Additional Ethics Questions
-
-189. Answer: d) Efficiency
-     Explanation: Efficiency is not a principle of medical ethics.
-
-190. Answer: informed consent process
-     Explanation: This is essential for ethical research.
-
-191. Answer: IRBs review research proposals to ensure ethical conduct and participant protection.
-     Explanation: This is crucial for research integrity.
-
-### Additional Healthcare Systems Questions
-
-192. Answer: d) Private insurance
-     Explanation: Private insurance is a payment method, not a delivery system.
-
-193. Answer: quality assurance
-     Explanation: This ensures healthcare standards.
-
-194. Answer: Healthcare disparities are differences in health outcomes between population groups.
-     Explanation: This is a major public health concern.
-
-### Additional Public Health Questions
-
-195. Answer: d) Insurance
-     Explanation: Insurance is a healthcare factor, not a health determinant.
-
-196. Answer: public health practice
-     Explanation: This is the core of public health.
-
-197. Answer: Public health focuses on population-level prevention and health promotion.
-     Explanation: This differs from individual healthcare.
-
-### Additional Healthcare Policy Questions
-
-198. Answer: d) Efficiency
-     Explanation: Efficiency is a goal, not a policy type.
-
-199. Answer: policymaking
-     Explanation: This involves multiple stakeholders.
-
-200. Answer: Government regulates healthcare through laws, standards, and oversight.
-     Explanation: This ensures quality and safety.
-
 ## Section Summaries
 
 ### Additional Topics
@@ -1265,3 +1290,66 @@ This completes our comprehensive practice test covering all major topics. Would 
 - Healthcare Policy: Development and implementation
 
 This comprehensive practice test now covers all major topics from the quicksheets with a total of 200 questions. Would you like me to add more questions to any particular section or make any adjustments?
+
+### Immunology and Physiology
+
+97. Answer: The three portal systems are:
+
+    1. Hepatic portal system (liver)
+    2. Hypophyseal portal system (pituitary)
+    3. Renal portal system (kidney)
+       Explanation: These systems are shown in the circulation section.
+
+98. Answer: right and left
+    Explanation: The foramen ovale is a fetal connection between right and left atria.
+
+99. Answer: d) Platelets
+    Explanation: Platelets are cellular components, not part of plasma.
+
+100.  Answer: The oxygen-hemoglobin dissociation curve shows:
+
+      - Sigmoid shape due to cooperative binding
+      - Right shift with increased temperature, CO2, or decreased pH (Bohr effect)
+      - Left shift with decreased temperature, CO2, or increased pH
+        Explanation: These factors affect oxygen binding to hemoglobin.
+
+101.  Answer: decreased, decreased
+      Explanation: The Bohr effect shows that lower pH reduces hemoglobin's oxygen affinity.
+
+102.  Answer: b) CO2 diffuses from the blood to the alveoli
+      Explanation: This is part of normal gas exchange in the lungs.
+
+### Research Methods and Statistics
+
+147. Answer: c) Randomized controlled trial
+     Explanation: RCTs provide the strongest evidence for causation.
+
+148. Answer: control group
+     Explanation: The control group serves as a baseline for comparison.
+
+149. Answer: Internal validity refers to the accuracy of conclusions about causation within the study, while external validity refers to generalizability to other populations
+     Explanation: Both are crucial for research quality.
+
+150. Answer: b) Ordinal
+     Explanation: Ordinal scales show order but don't have equal intervals.
+
+151. Answer: False
+     Explanation: The best measure depends on the distribution; median is better for skewed data.
+
+152. Answer: Reliability refers to consistency of measurements, while validity refers to accuracy in measuring what is intended
+     Explanation: Both are necessary for good measurement.
+
+### Final Notes
+
+This answer key is based on the information provided in the MCAT quicksheets and covers the major topics tested. Each answer is supported by content shown in the reference materials. Students should use this as a study guide in conjunction with other MCAT preparation materials.
+
+Key areas covered include:
+
+- Behavioral Sciences
+- Biochemistry and Molecular Biology
+- Physics and Mathematics
+- Chemistry and Organic Chemistry
+- Biology and Physiology
+- Research Methods and Statistics
+
+Remember to review the explanations along with the answers to understand the underlying concepts.
