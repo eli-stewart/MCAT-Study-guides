@@ -7,30 +7,33 @@
 1. (Fill in the blank) The three types of neurons in the nervous system are **\_\_\_\_**, **\_\_\_\_**, and **\_\_\_\_**.
 
 2. Multiple Choice: The parasympathetic branch of the autonomic nervous system is responsible for:
-   a) "Fight or flight" responses
-   b) "Rest and digest" responses
-   c) Motor control
-   d) Pain sensation
+
+- a) "Fight or flight" responses
+- b) "Rest and digest" responses
+- c) Motor control
+- d) Pain sensation
 
 3. Short Answer: List the four lobes of the cerebral cortex and their primary functions.
 
 4. (True/False) The temporal lobe is primarily responsible for visual processing.
 
 5. Multiple Choice: Which of the following is NOT a part of the forebrain?
-   a) Thalamus
-   b) Hypothalamus
-   c) Cerebral cortex
-   d) Medulla oblongata
+
+- a) Thalamus
+- b) Hypothalamus
+- c) Cerebral cortex
+- d) Medulla oblongata
 
 6. Short Answer: Describe the three parts of the brain (hindbrain, midbrain, forebrain) and their components.
 
 7. Fill in the blank: The **\_\_\_\_** is the relay station for sensory information.
 
 8. Multiple Choice: The hypothalamus:
-   a) Contains the cerebellum
-   b) Maintains homeostasis
-   c) Processes visual information
-   d) Controls speech production
+
+- a) Contains the cerebellum
+- b) Maintains homeostasis
+- c) Processes visual information
+- d) Controls speech production
 
 9. Short Answer: Explain the role of the limbic system and list its components.
 
@@ -58,10 +61,11 @@
 ### Threshold and Signal Detection
 
 12. Multiple Choice: Weber's Law states that:
-    a) The minimum stimulus needed for signal transduction
-    b) The just noticeable difference is proportional to the magnitude of the stimulus
-    c) The effects of nonsensory factors on perception
-    d) The relationship between hits and misses
+
+- a) The minimum stimulus needed for signal transduction
+- b) The just noticeable difference is proportional to the magnitude of the stimulus
+- c) The effects of nonsensory factors on perception
+- d) The relationship between hits and misses
 
 13. Fill in the blank: In signal detection theory, the four possible outcomes are **\_\_\_\_**, **\_\_\_\_**, **\_\_\_\_**, and **\_\_\_\_**.
 
@@ -70,10 +74,11 @@
 ### Vision
 
 15. Multiple Choice: The visual pathway correctly ordered is:
-    a) Retina → optic tract → lateral geniculate nucleus → visual radiations → visual cortex
-    b) Retina → optic nerve → optic chiasm → visual cortex → lateral geniculate nucleus
-    c) Retina → optic nerve → optic chiasm → lateral geniculate nucleus → visual radiations → visual cortex
-    d) Optic nerve → retina → lateral geniculate nucleus → visual cortex → visual radiations
+
+- a) Retina → optic tract → lateral geniculate nucleus → visual radiations → visual cortex
+- b) Retina → optic nerve → optic chiasm → visual cortex → lateral geniculate nucleus
+- c) Retina → optic nerve → optic chiasm → lateral geniculate nucleus → visual radiations → visual cortex
+- d) Optic nerve → retina → lateral geniculate nucleus → visual cortex → visual radiations
 
 16. Label Diagram: Label the following parts of the eye: cornea, lens, iris, retina, optic disc.
 
@@ -82,10 +87,11 @@
 17. Short Answer: Explain how sound waves are processed from the ear to the brain.
 
 18. Multiple Choice: Which structure detects rotational acceleration?
-    a) Cochlea
-    b) Utricle
-    c) Semicircular canals
-    d) Saccule
+
+- a) Cochlea
+- b) Utricle
+- c) Semicircular canals
+- d) Saccule
 
 19. Fill in the blank: The auditory pathway proceeds from cochlea → **\_\_\_\_** → medial geniculate nucleus of thalamus → auditory cortex.
 
@@ -96,10 +102,11 @@
 ### Endocrine System Basics
 
 20. Multiple Choice: Direct hormones differ from tropic hormones in that:
-    a) Direct hormones stimulate organs, while tropic hormones stimulate other glands
-    b) Tropic hormones stimulate organs, while direct hormones stimulate other glands
-    c) Direct hormones use second messengers, while tropic hormones don't
-    d) There is no difference between them
+
+- a) Direct hormones stimulate organs, while tropic hormones stimulate other glands
+- b) Tropic hormones stimulate organs, while direct hormones stimulate other glands
+- c) Direct hormones use second messengers, while tropic hormones don't
+- d) There is no difference between them
 
 21. Fill in the blank: The three types of hormone action mechanisms are **\_\_\_\_**, **\_\_\_\_**, and **\_\_\_\_**.
 
@@ -125,10 +132,11 @@
 ### Nervous System Structure and Function
 
 24. Multiple Choice: The functional unit of the neuron includes:
-    a) Only the cell body
-    b) The cell body and dendrites
-    c) The entire neuron including Schwann cells
-    d) Only the axon terminal
+
+- a) Only the cell body
+- b) The cell body and dendrites
+- c) The entire neuron including Schwann cells
+- d) Only the axon terminal
 
 25. Label Diagram: Label the following parts of a neuron: Schwann cells, axon, nerve terminals, dendrites.
 
@@ -137,10 +145,11 @@
 27. Short Answer: Describe the three stages of an action potential (depolarization, repolarization, hyperpolarization).
 
 28. Multiple Choice: During synaptic transmission, what occurs at the synaptic knob?
-    a) Voltage-gated K⁺ channels open
-    b) Voltage-gated Ca²⁺ channels open, sending Ca²⁺ into the cell
-    c) Na⁺ channels close
-    d) Neurotransmitter breakdown occurs
+
+- a) Voltage-gated K⁺ channels open
+- b) Voltage-gated Ca²⁺ channels open, sending Ca²⁺ into the cell
+- c) Na⁺ channels close
+- d) Neurotransmitter breakdown occurs
 
 29. True/False: The synapse can only transmit information in one direction.
 
@@ -151,20 +160,22 @@
 ### Psychological Disorders
 
 30. Multiple Choice: Which of the following is NOT a characteristic of somatic symptom disorder?
-    a) At least one somatic symptom
-    b) Disproportionate concern
-    c) Hallucinations
-    d) May or may not be linked to medical condition
+
+- a) At least one somatic symptom
+- b) Disproportionate concern
+- c) Hallucinations
+- d) May or may not be linked to medical condition
 
 31. Short Answer: Compare and contrast the three clusters of personality disorders.
 
 32. Fill in the blank: The two main symptoms of schizophrenia are **\_\_\_\_** symptoms and **\_\_\_\_** symptoms.
 
 33. Multiple Choice: Which of the following is required for a diagnosis of major depressive disorder?
-    a) At least one manic episode
-    b) At least one major depressive episode
-    c) Seasonal pattern
-    d) Psychotic features
+
+- a) At least one manic episode
+- b) At least one major depressive episode
+- c) Seasonal pattern
+- d) Psychotic features
 
 34. True/False: Bipolar II disorder requires both a hypomanic episode and at least one major depressive episode.
 
@@ -190,10 +201,11 @@
 36. Short Answer: Explain the three components of self-presentation and interaction with others.
 
 37. Multiple Choice: Which theory focuses on how individuals infer the causes of their own or others' behavior?
-    a) Social facilitation theory
-    b) Attribution theory
-    c) Conformity theory
-    d) Stereotype theory
+
+- a) Social facilitation theory
+- b) Attribution theory
+- c) Conformity theory
+- d) Stereotype theory
 
 38. Fill in the blank: The three main types of attribution are **\_\_\_\_**, **\_\_\_\_**, and **\_\_\_\_**.
 
@@ -202,20 +214,22 @@
 ### Social Structure and Demographics
 
 40. Multiple Choice: Which sociological theory focuses on how differentials are created and how they maintain order?
-    a) Functionalism
-    b) Conflict theory
-    c) Symbolic interactionism
-    d) Social constructionism
+
+- a) Functionalism
+- b) Conflict theory
+- c) Symbolic interactionism
+- d) Social constructionism
 
 41. Short Answer: Explain the difference between material culture and symbolic culture.
 
 42. Fill in the blank: Social stratification is based on **\_\_\_\_** status.
 
 43. Multiple Choice: Which of the following is NOT one of the three basic types of social mobility?
-    a) Horizontal mobility
-    b) Vertical mobility
-    c) Diagonal mobility
-    d) Intergenerational mobility
+
+- a) Horizontal mobility
+- b) Vertical mobility
+- c) Diagonal mobility
+- d) Intergenerational mobility
 
 44. Short Answer: Define and explain the concept of the poverty line in the US.
 
@@ -224,10 +238,11 @@
 45. Calculate: If a population of 100,000 has 1,000 new cases of a disease in one year, what is the incidence rate?
 
 46. Multiple Choice: Which measure represents the burden or degree of illness associated with a given disease?
-    a) Incidence
-    b) Prevalence
-    c) Morbidity
-    d) Mortality
+
+- a) Incidence
+- b) Prevalence
+- c) Morbidity
+- d) Mortality
 
 # MCAT Practice Test - Page 4: Cognition, Consciousness, and Language
 
@@ -236,10 +251,11 @@
 ### Other Senses
 
 47. Multiple Choice: Which of the following is responsible for detecting volatile or aerosolized chemicals?
-    a) Taste buds
-    b) Olfactory chemoreceptors
-    c) Proprioceptors
-    d) Mechanoreceptors
+
+- a) Taste buds
+- b) Olfactory chemoreceptors
+- c) Proprioceptors
+- d) Mechanoreceptors
 
 48. Short Answer: List and describe the four touch modalities.
 
@@ -248,10 +264,11 @@
 ### Object Recognition
 
 50. Multiple Choice: Which processing method is more prone to mistakes?
-    a) Bottom-up processing
-    b) Top-down processing
-    c) Both are equally prone to mistakes
-    d) Neither is prone to mistakes
+
+- a) Bottom-up processing
+- b) Top-down processing
+- c) Both are equally prone to mistakes
+- d) Neither is prone to mistakes
 
 51. True/False: Gestalt principles help explain how the brain can infer missing parts of an image when it is incomplete.
 
@@ -279,10 +296,11 @@
 ### Consciousness
 
 55. Multiple Choice: Which EEG wave pattern is associated with light sleep?
-    a) Beta
-    b) Alpha
-    c) Theta
-    d) Delta
+
+- a) Beta
+- b) Alpha
+- c) Theta
+- d) Delta
 
 56. Create a table matching sleep stages with their characteristics and EEG patterns.
 
@@ -291,10 +309,11 @@
 ### Problem-Solving and Decision-Making
 
 58. Multiple Choice: Which of the following is NOT a problem-solving technique mentioned in the quicksheet?
-    a) Trial-and-error
-    b) Algorithms
-    c) Brainstorming
-    d) Deductive reasoning
+
+- a) Trial-and-error
+- b) Algorithms
+- c) Brainstorming
+- d) Deductive reasoning
 
 59. Short Answer: Explain how heuristics can both help and hinder decision-making.
 
@@ -305,10 +324,11 @@
 ### Language Areas in the Brain
 
 61. Multiple Choice: Damage to which area results in fluent, nonsensical aphasia?
-    a) Wernicke's area
-    b) Broca's area
-    c) Angular gyrus
-    d) Arcuate fasciculus
+
+- a) Wernicke's area
+- b) Broca's area
+- c) Angular gyrus
+- d) Arcuate fasciculus
 
 62. Short Answer: Explain the difference between Broca's and Wernicke's aphasia.
 
@@ -319,10 +339,11 @@
 ### Emotion
 
 63. Multiple Choice: According to the James-Lange theory of emotion, which comes first?
-    a) Conscious emotion
-    b) Nervous system arousal
-    c) Action
-    d) Cognitive appraisal
+
+- a) Conscious emotion
+- b) Nervous system arousal
+- c) Action
+- d) Cognitive appraisal
 
 64. Fill in the blank: The seven universal emotions are **\_\_\_\_**, **\_\_\_\_**, **\_\_\_\_**, **\_\_\_\_**, **\_\_\_\_**, **\_\_\_\_**, and **\_\_\_\_**.
 
@@ -331,10 +352,11 @@
 ### Motivation
 
 66. Multiple Choice: Which of the following best describes intrinsic motivation?
-    a) Based on external circumstances
-    b) Based on internal drive or perception
-    c) Based on reward systems
-    d) Based on social pressure
+
+- a) Based on external circumstances
+- b) Based on internal drive or perception
+- c) Based on reward systems
+- d) Based on social pressure
 
 67. True/False: According to arousal theory, people aim for the highest possible level of arousal.
 
@@ -343,20 +365,22 @@
 ### Stress
 
 69. Multiple Choice: Which of the following is part of primary appraisal?
-    a) Evaluating whether the organism can cope
-    b) Classifying the potential stressor
-    c) Determining the stress response
-    d) Initiating the adaptation syndrome
+
+- a) Evaluating whether the organism can cope
+- b) Classifying the potential stressor
+- c) Determining the stress response
+- d) Initiating the adaptation syndrome
 
 70. Fill in the blank: The three stages of the general adaptation syndrome are **\_\_\_\_**, **\_\_\_\_**, and **\_\_\_\_**.
 
 71. Short Answer: Define and explain the difference between primary and secondary appraisal.
 
 72. Multiple Choice: Which of the following is NOT a type of stressor?
-    a) Environmental
-    b) Social
-    c) Psychological
-    d) Motivational
+
+- a) Environmental
+- b) Social
+- c) Psychological
+- d) Motivational
 
 # MCAT Practice Test - Page 6: Biochemistry
 
@@ -365,20 +389,22 @@
 ### Amino Acids, Peptides, and Proteins
 
 73. Multiple Choice: Which of the following is NOT true about amino acids?
-    a) They have an amino group
-    b) They have a carboxyl group
-    c) They all have the D-configuration
-    d) They have an R group attached to a central carbon
+
+- a) They have an amino group
+- b) They have a carboxyl group
+- c) They all have the D-configuration
+- d) They have an R group attached to a central carbon
 
 74. Fill in the blank: The four categories of amino acid side chains are **\_\_\_\_**, **\_\_\_\_**, **\_\_\_\_**, and **\_\_\_\_**.
 
 75. Short Answer: Explain how pH affects the charge state of amino acids.
 
 76. Multiple Choice: Which type of bond is responsible for peptide bond formation?
-    a) Ionic bond
-    b) Hydrogen bond
-    c) Condensation reaction
-    d) Hydrolysis reaction
+
+- a) Ionic bond
+- b) Hydrogen bond
+- c) Condensation reaction
+- d) Hydrolysis reaction
 
 ### Nonenzymatic Protein Function and Analysis
 
@@ -402,10 +428,11 @@
 ### Biosignaling
 
 79. Multiple Choice: Which type of ion channel is regulated by chemical signals?
-    a) Ungated channels
-    b) Voltage-gated channels
-    c) Ligand-gated channels
-    d) Mechanically-gated channels
+
+- a) Ungated channels
+- b) Voltage-gated channels
+- c) Ligand-gated channels
+- d) Mechanically-gated channels
 
 80. Short Answer: Describe the components and function of enzyme-linked receptors.
 
@@ -414,10 +441,11 @@
 81. Fill in the blank: At one-half Vmax, [S] = **\_\_\_\_**.
 
 82. Multiple Choice: Which of the following is true about competitive enzyme inhibition?
-    a) It decreases Vmax
-    b) It has no effect on Km
-    c) It affects the allosteric site
-    d) It increases Km
+
+- a) It decreases Vmax
+- b) It has no effect on Km
+- c) It affects the allosteric site
+- d) It increases Km
 
 83. Short Answer: Compare and contrast the four types of enzyme regulation (competitive, noncompetitive, mixed, uncompetitive).
 
@@ -428,10 +456,11 @@
 ### Carbohydrate Structure and Function
 
 84. Multiple Choice: Which of the following is NOT a characteristic of 3-carbon sugars?
-    a) They are trioses
-    b) They contain exactly one chiral carbon
-    c) They are always oxidized
-    d) They can exist as ketoses or aldoses
+
+- a) They are trioses
+- b) They contain exactly one chiral carbon
+- c) They are always oxidized
+- d) They can exist as ketoses or aldoses
 
 85. Fill in the blank: Sugars with the highest numbered chiral carbon with the -OH on the right (in a Fischer projection) are **\_\_\_\_** sugars.
 
@@ -440,10 +469,11 @@
 ### DNA Structure
 
 87. Multiple Choice: In the Watson-Crick model, what pairs with thymine?
-    a) Adenine
-    b) Guanine
-    c) Cytosine
-    d) Uracil
+
+- a) Adenine
+- b) Guanine
+- c) Cytosine
+- d) Uracil
 
 88. Fill in the blank: DNA strands are antiparallel, with one strand running **\_\_\_\_** and the other running **\_\_\_\_**.
 
@@ -467,10 +497,11 @@
     e) Relieves supercoiling ahead of replication fork
 
 91. Multiple Choice: Which strand is synthesized continuously?
-    a) Leading strand
-    b) Lagging strand
-    c) Both strands
-    d) Neither strand
+
+- a) Leading strand
+- b) Lagging strand
+- c) Both strands
+- d) Neither strand
 
 92. True/False: DNA replication is semiconservative, meaning each new double helix contains one old strand and one new strand.
 
@@ -479,10 +510,11 @@
 93. Short Answer: Describe the differences between heterochromatin and euchromatin.
 
 94. Multiple Choice: What is the primary function of telomeres?
-    a) To regulate gene expression
-    b) To protect chromosome ends
-    c) To initiate DNA replication
-    d) To organize chromatin structure
+
+- a) To regulate gene expression
+- b) To protect chromosome ends
+- c) To initiate DNA replication
+- d) To organize chromatin structure
 
 95. Fill in the blank: DNA is wrapped around **\_\_\_\_** proteins (H2A, H2B, H3, and H4) to form nucleosomes.
 
@@ -493,10 +525,11 @@
 ### Circulatory Pathway
 
 96. Multiple Choice: What is the correct order of blood flow through the heart?
-    a) Superior/inferior vena cava → left atrium → left ventricle → pulmonary arteries → lungs → pulmonary veins → right atrium → right ventricle → aorta → body
-    b) Superior/inferior vena cava → right atrium → right ventricle → pulmonary arteries → lungs → pulmonary veins → left atrium → left ventricle → aorta → body
-    c) Superior/inferior vena cava → right atrium → left atrium → left ventricle → pulmonary arteries → lungs → pulmonary veins → right ventricle → aorta → body
-    d) Superior/inferior vena cava → right ventricle → right atrium → pulmonary arteries → lungs → pulmonary veins → left ventricle → left atrium → aorta → body
+
+- a) Superior/inferior vena cava → left atrium → left ventricle → pulmonary arteries → lungs → pulmonary veins → right atrium → right ventricle → aorta → body
+- b) Superior/inferior vena cava → right atrium → right ventricle → pulmonary arteries → lungs → pulmonary veins → left atrium → left ventricle → aorta → body
+- c) Superior/inferior vena cava → right atrium → left atrium → left ventricle → pulmonary arteries → lungs → pulmonary veins → right ventricle → aorta → body
+- d) Superior/inferior vena cava → right ventricle → right atrium → pulmonary arteries → lungs → pulmonary veins → left ventricle → left atrium → aorta → body
 
 97. Short Answer: List and explain the three portal systems in the body.
 
@@ -505,10 +538,11 @@
 ### Blood Components
 
 99. Multiple Choice: Which of the following is NOT a component of plasma?
-    a) Nutrients
-    b) Blood proteins
-    c) Gases
-    d) Platelets
+
+- a) Nutrients
+- b) Blood proteins
+- c) Gases
+- d) Platelets
 
 100. Short Answer: Explain the oxygen-hemoglobin dissociation curve and the factors that can shift it.
 
@@ -517,10 +551,11 @@
 ### Respiration
 
 102. Multiple Choice: Which statement about gas exchange is correct?
-     a) O₂ diffuses from areas of low to high concentration
-     b) CO₂ diffuses from the blood to the alveoli
-     c) Gas exchange occurs in the bronchi
-     d) O₂ requires active transport across membranes
+
+- a) O₂ diffuses from areas of low to high concentration
+- b) CO₂ diffuses from the blood to the alveoli
+- c) Gas exchange occurs in the bronchi
+- d) O₂ requires active transport across membranes
 
 103. True/False: Fetal hemoglobin has a lower affinity for oxygen than adult hemoglobin.
 
@@ -549,10 +584,11 @@
 ### Digestion
 
 107. Multiple Choice: Which enzyme is produced in the pancreas and functions in the small intestine?
-     a) Pepsin
-     b) Amylase
-     c) Trypsin
-     d) Lipase
+
+- a) Pepsin
+- b) Amylase
+- c) Trypsin
+- d) Lipase
 
 108. Short Answer: Describe the process of lipid digestion, including the role of bile.
 
@@ -563,10 +599,11 @@
 ### Atomic Structure
 
 109. Multiple Choice: What is atomic weight?
-     a) The number of protons in an atom
-     b) The number of neutrons in an atom
-     c) The weighted average of naturally occurring isotopes
-     d) The sum of protons and electrons
+
+- a) The number of protons in an atom
+- b) The number of neutrons in an atom
+- c) The weighted average of naturally occurring isotopes
+- d) The sum of protons and electrons
 
 110. Fill in the blank: A mole is represented by **\_\_\_\_** particles.
 
@@ -575,10 +612,11 @@
 ### Quantum Mechanical Model of Atoms
 
 112. Multiple Choice: Which quantum number specifies the particular orbital within a subshell?
-     a) Principal quantum number (n)
-     b) Angular momentum quantum number (l)
-     c) Magnetic quantum number (ml)
-     d) Spin quantum number (ms)
+
+- a) Principal quantum number (n)
+- b) Angular momentum quantum number (l)
+- c) Magnetic quantum number (ml)
+- d) Spin quantum number (ms)
 
 113. Fill in the blank: The principal quantum number corresponds to transitions from upper levels n ≥ 3 to n = 2, known as the **\_\_\_\_** series.
 
@@ -587,20 +625,22 @@
 ### Bonding & Chemical Interactions
 
 115. Multiple Choice: According to the octet rule:
-     a) All atoms must have exactly 8 electrons
-     b) An atom will bond until it has a full outermost shell
-     c) Only noble gases can form bonds
-     d) Bonds must be ionic
+
+- a) All atoms must have exactly 8 electrons
+- b) An atom will bond until it has a full outermost shell
+- c) Only noble gases can form bonds
+- d) Bonds must be ionic
 
 116. True/False: In Lewis structures, the central atom can have more than four bonds if it has d orbitals available.
 
 117. Short Answer: Describe the steps for drawing Lewis structures.
 
 118. Multiple Choice: Which of the following determines molecular polarity?
-     a) Only the electronegativity difference between atoms
-     b) Only the shape of the molecule
-     c) Both electronegativity differences and molecular shape
-     d) The number of bonds present
+
+- a) Only the electronegativity difference between atoms
+- b) Only the shape of the molecule
+- c) Both electronegativity differences and molecular shape
+- d) The number of bonds present
 
 119. Fill in the blank: The geometry of a molecule with four electron domains around the central atom is **\_\_\_\_**.
 
@@ -611,10 +651,11 @@
 ### Organic Molecules & Functional Groups
 
 120. Multiple Choice: Which functional group is characterized by a carbon-oxygen double bond?
-     a) Alcohol
-     b) Aldehyde
-     c) Ether
-     d) Amine
+
+- a) Alcohol
+- b) Aldehyde
+- c) Ether
+- d) Amine
 
 121. Fill in the blank: The IUPAC name for CH₃-CH₂-CH₂-OH is **\_\_\_\_**.
 
@@ -623,10 +664,11 @@
 ### Stereochemistry
 
 123. Multiple Choice: A molecule with a chiral center:
-     a) Must contain a double bond
-     b) Has a plane of symmetry
-     c) Has a carbon with four different substituents
-     d) Cannot rotate polarized light
+
+- a) Must contain a double bond
+- b) Has a plane of symmetry
+- c) Has a carbon with four different substituents
+- d) Cannot rotate polarized light
 
 124. True/False: E/Z isomers are possible only in molecules with double bonds.
 
@@ -635,20 +677,22 @@
 ### Reactions & Mechanisms
 
 126. Multiple Choice: Which type of reaction involves the addition of H₂O across a double bond?
-     a) Hydration
-     b) Hydrogenation
-     c) Hydrolysis
-     d) Dehydration
+
+- a) Hydration
+- b) Hydrogenation
+- c) Hydrolysis
+- d) Dehydration
 
 127. Fill in the blank: In an SN2 reaction, the rate depends on the concentration of both the **\_\_\_\_** and the nucleophile.
 
 128. Short Answer: Explain the difference between elimination and substitution reactions.
 
 129. Multiple Choice: Which factor favors SN1 over SN2 reactions?
-     a) Primary alkyl halide substrate
-     b) Polar protic solvent
-     c) Strong nucleophile
-     d) Unhindered substrate
+
+- a) Primary alkyl halide substrate
+- b) Polar protic solvent
+- c) Strong nucleophile
+- d) Unhindered substrate
 
 ### Aromatic Chemistry
 
@@ -663,10 +707,11 @@
 ### Kinematics & Dynamics
 
 132. Multiple Choice: A projectile is launched at an angle θ above the horizontal. At the highest point of its trajectory:
-     a) The vertical velocity is zero
-     b) The horizontal velocity is zero
-     c) Both velocities are zero
-     d) Neither velocity is zero
+
+- a) The vertical velocity is zero
+- b) The horizontal velocity is zero
+- c) Both velocities are zero
+- d) Neither velocity is zero
 
 133. Fill in the blank: The acceleration due to gravity on Earth's surface is approximately **\_\_\_\_** m/s².
 
@@ -675,10 +720,11 @@
 ### Work, Energy & Thermodynamics
 
 135. Multiple Choice: Which of the following is NOT a form of energy?
-     a) Kinetic energy
-     b) Potential energy
-     c) Force
-     d) Thermal energy
+
+- a) Kinetic energy
+- b) Potential energy
+- c) Force
+- d) Thermal energy
 
 136. Fill in the blank: The First Law of Thermodynamics states that ΔU = **\_\_\_\_** + W.
 
@@ -687,10 +733,11 @@
 ### Fluids & Gases
 
 138. Multiple Choice: According to Bernoulli's principle, as fluid velocity increases:
-     a) Pressure increases
-     b) Pressure decreases
-     c) Pressure remains constant
-     d) Temperature increases
+
+- a) Pressure increases
+- b) Pressure decreases
+- c) Pressure remains constant
+- d) Temperature increases
 
 139. True/False: In an ideal gas, the average kinetic energy of molecules is directly proportional to absolute temperature.
 
@@ -699,10 +746,11 @@
 ### Waves & Optics
 
 141. Multiple Choice: Which property of a wave remains constant when it passes from one medium to another?
-     a) Wavelength
-     b) Speed
-     c) Frequency
-     d) Direction
+
+- a) Wavelength
+- b) Speed
+- c) Frequency
+- d) Direction
 
 142. Fill in the blank: The angle of incidence equals the angle of **\_\_\_\_** for reflection.
 
@@ -711,10 +759,11 @@
 ### Electricity & Magnetism
 
 144. Multiple Choice: The force between two charged particles:
-     a) Increases with distance
-     b) Decreases with the square of distance
-     c) Is independent of distance
-     d) Decreases linearly with distance
+
+- a) Increases with distance
+- b) Decreases with the square of distance
+- c) Is independent of distance
+- d) Decreases linearly with distance
 
 145. Fill in the blank: The unit of magnetic field strength is the **\_\_\_\_**.
 
@@ -727,10 +776,11 @@
 ### Research Design
 
 147. Multiple Choice: Which type of study design is best suited for establishing causation?
-     a) Cross-sectional study
-     b) Case-control study
-     c) Randomized controlled trial
-     d) Observational study
+
+- a) Cross-sectional study
+- b) Case-control study
+- c) Randomized controlled trial
+- d) Observational study
 
 148. Fill in the blank: The **\_\_\_\_** is the group in an experiment that does not receive the treatment.
 
@@ -739,10 +789,11 @@
 ### Variables & Measurement
 
 150. Multiple Choice: Which scale of measurement is used for ranking data without equal intervals?
-     a) Nominal
-     b) Ordinal
-     c) Interval
-     d) Ratio
+
+- a) Nominal
+- b) Ordinal
+- c) Interval
+- d) Ratio
 
 151. True/False: The mean is always the best measure of central tendency.
 
@@ -751,10 +802,11 @@
 ### Statistical Analysis
 
 153. Multiple Choice: Which statistical test would be most appropriate for comparing means between two independent groups?
-     a) Paired t-test
-     b) Independent t-test
-     c) Chi-square test
-     d) ANOVA
+
+- a) Paired t-test
+- b) Independent t-test
+- c) Chi-square test
+- d) ANOVA
 
 154. Fill in the blank: The probability of making a Type I error is denoted by **\_\_\_\_**.
 
@@ -763,10 +815,11 @@
 ### Data Interpretation
 
 156. Multiple Choice: A p-value of 0.03 indicates:
-     a) The null hypothesis is true
-     b) The effect size is large
-     c) The result is statistically significant at α = 0.05
-     d) The study should be repeated
+
+- a) The null hypothesis is true
+- b) The effect size is large
+- c) The result is statistically significant at α = 0.05
+- d) The study should be repeated
 
 157. Fill in the blank: A correlation coefficient of +1.0 indicates a perfect **\_\_\_\_** relationship.
 
@@ -853,10 +906,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Biochemistry Questions
 
 159. Multiple Choice: Which of the following is NOT a characteristic of enzyme catalysis?
-     a) Lower activation energy
-     b) Increased reaction rate
-     c) Changed equilibrium constant
-     d) Specific substrate binding
+
+- a) Lower activation energy
+- b) Increased reaction rate
+- c) Changed equilibrium constant
+- d) Specific substrate binding
 
 160. Fill in the blank: The Michaelis-Menten equation describes the relationship between **\_\_\_\_** and **\_\_\_\_**.
 
@@ -865,10 +919,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Cell Biology Questions
 
 162. Multiple Choice: Which organelle is responsible for protein synthesis?
-     a) Golgi apparatus
-     b) Endoplasmic reticulum
-     c) Lysosome
-     d) Mitochondria
+
+- a) Golgi apparatus
+- b) Endoplasmic reticulum
+- c) Lysosome
+- d) Mitochondria
 
 163. Fill in the blank: The process by which cells engulf large particles is called **\_\_\_\_**.
 
@@ -877,10 +932,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Genetics Questions
 
 165. Multiple Choice: Which of the following is NOT a type of genetic mutation?
-     a) Point mutation
-     b) Frameshift mutation
-     c) Silent mutation
-     d) Translation mutation
+
+- a) Point mutation
+- b) Frameshift mutation
+- c) Silent mutation
+- d) Translation mutation
 
 166. Fill in the blank: The process of **\_\_\_\_** converts DNA to RNA.
 
@@ -889,10 +945,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Physiology Questions
 
 168. Multiple Choice: Which hormone is responsible for regulating blood calcium levels?
-     a) Insulin
-     b) Parathyroid hormone
-     c) Thyroxine
-     d) Cortisol
+
+- a) Insulin
+- b) Parathyroid hormone
+- c) Thyroxine
+- d) Cortisol
 
 169. Fill in the blank: The **\_\_\_\_** system is responsible for maintaining fluid balance in the body.
 
@@ -901,10 +958,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Microbiology Questions
 
 171. Multiple Choice: Which of the following is NOT a type of bacteria?
-     a) Gram-positive
-     b) Gram-negative
-     c) Gram-neutral
-     d) Acid-fast
+
+- a) Gram-positive
+- b) Gram-negative
+- c) Gram-neutral
+- d) Acid-fast
 
 172. Fill in the blank: The process of **\_\_\_\_** allows bacteria to exchange genetic material.
 
@@ -913,10 +971,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Immunology Questions
 
 174. Multiple Choice: Which type of immunity is acquired through vaccination?
-     a) Natural active immunity
-     b) Artificial active immunity
-     c) Natural passive immunity
-     d) Artificial passive immunity
+
+- a) Natural active immunity
+- b) Artificial active immunity
+- c) Natural passive immunity
+- d) Artificial passive immunity
 
 175. Fill in the blank: The **\_\_\_\_** is the first line of defense against pathogens.
 
@@ -925,10 +984,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Pharmacology Questions
 
 177. Multiple Choice: Which of the following is NOT a route of drug administration?
-     a) Oral
-     b) Intravenous
-     c) Transdermal
-     d) Intracellular
+
+- a) Oral
+- b) Intravenous
+- c) Transdermal
+- d) Intracellular
 
 178. Fill in the blank: The **\_\_\_\_** is the time required for half of a drug to be eliminated from the body.
 
@@ -937,10 +997,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Epidemiology Questions
 
 180. Multiple Choice: Which of the following is NOT a measure of disease frequency?
-     a) Incidence
-     b) Prevalence
-     c) Mortality
-     d) Validity
+
+- a) Incidence
+- b) Prevalence
+- c) Mortality
+- d) Validity
 
 181. Fill in the blank: The **\_\_\_\_** is the number of new cases of a disease in a population over time.
 
@@ -949,10 +1010,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Biostatistics Questions
 
 183. Multiple Choice: Which of the following is NOT a type of sampling method?
-     a) Random sampling
-     b) Stratified sampling
-     c) Convenience sampling
-     d) Statistical sampling
+
+- a) Random sampling
+- b) Stratified sampling
+- c) Convenience sampling
+- d) Statistical sampling
 
 184. Fill in the blank: The **\_\_\_\_** is the probability of rejecting the null hypothesis when it is false.
 
@@ -961,10 +1023,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Research Methods Questions
 
 186. Multiple Choice: Which of the following is NOT a type of research design?
-     a) Experimental
-     b) Observational
-     c) Theoretical
-     d) Quasi-experimental
+
+- a) Experimental
+- b) Observational
+- c) Theoretical
+- d) Quasi-experimental
 
 187. Fill in the blank: The **\_\_\_\_** is the extent to which a study's results can be generalized to other populations.
 
@@ -973,10 +1036,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Ethics Questions
 
 189. Multiple Choice: Which of the following is NOT a principle of medical ethics?
-     a) Beneficence
-     b) Nonmaleficence
-     c) Justice
-     d) Efficiency
+
+- a) Beneficence
+- b) Nonmaleficence
+- c) Justice
+- d) Efficiency
 
 190. Fill in the blank: The **\_\_\_\_** is the process of obtaining informed consent from research participants.
 
@@ -985,10 +1049,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Healthcare Systems Questions
 
 192. Multiple Choice: Which of the following is NOT a type of healthcare delivery system?
-     a) Fee-for-service
-     b) Managed care
-     c) Universal healthcare
-     d) Private insurance
+
+- a) Fee-for-service
+- b) Managed care
+- c) Universal healthcare
+- d) Private insurance
 
 193. Fill in the blank: The **\_\_\_\_** is the process of evaluating the quality of healthcare services.
 
@@ -997,10 +1062,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Public Health Questions
 
 195. Multiple Choice: Which of the following is NOT a determinant of health?
-     a) Genetics
-     b) Environment
-     c) Healthcare
-     d) Insurance
+
+- a) Genetics
+- b) Environment
+- c) Healthcare
+- d) Insurance
 
 196. Fill in the blank: The **\_\_\_\_** is the process of preventing disease and promoting health in populations.
 
@@ -1009,10 +1075,11 @@ This completes our comprehensive practice test covering all major topics. Would 
 ### Additional Healthcare Policy Questions
 
 198. Multiple Choice: Which of the following is NOT a type of healthcare policy?
-     a) Access
-     b) Quality
-     c) Cost
-     d) Efficiency
+
+- a) Access
+- b) Quality
+- c) Cost
+- d) Efficiency
 
 199. Fill in the blank: The **\_\_\_\_** is the process of developing and implementing healthcare policies.
 
